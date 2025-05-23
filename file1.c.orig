@@ -6,13 +6,18 @@ int main()
 {
 	printf("hello world");
 	printf("i am Naveen");
-
 <<<<<<< HEAD
+
+
 	printf("commited successfully branch 3");
-=======
+
 	print("successful commited in branch 4");
 
->>>>>>> file15
+=======
+
+	printf("commit in branch2 ");
+>>>>>>> file13
+
 
 }
 
